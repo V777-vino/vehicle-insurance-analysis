@@ -84,4 +84,4 @@ Throughout the notebook, visualizations are created using Matplotlib and Seaborn
 
 The vehicle insurance analysis project utilizes PySpark, SparkSQL, Matplotlib, and Seaborn to analyze a dataset containing vehicle insurance policy information. The notebook presents the steps and code used for univariate analysis, bivariate analysis, and outlier analysis. The visualizations and results obtained from the analysis provide valuable insights into the dataset.
 
-For any questions or issues, please feel free to contact [your-name] at [your-email].
+For any questions or issues, please feel free to contact [S Antony vinothan] at [antonyvino777@gmail.com].
